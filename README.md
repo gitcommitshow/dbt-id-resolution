@@ -1,6 +1,6 @@
 <p align="center">
 🚀 Update Y2024: Just launched <b><a href="https://www.rudderstack.com/use-case/identity-resolution/">RudderStack Profiles</a></b>
- <br/>Scalable identity resolution in your warehouse for a complete picture of your customer
+ <br/>Scalable identity resolution in your warehouse for a 360 view of your customer
   <br/>
  </p>
 
